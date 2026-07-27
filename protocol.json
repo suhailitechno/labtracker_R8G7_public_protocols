@@ -1,0 +1,20 @@
+{
+  "references": [],
+  "editor_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "Start writing your protocol here...",
+            "type": "text"
+          }
+        ]
+      }
+    ]
+  }
+}
